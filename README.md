@@ -1,3 +1,3 @@
 # hello-world
-this is my hello-world reppository
-I am art-historian an dwebdesigner and now learning to use github
+this is my hello-world repository
+I am art-historian and webdesigner and now learning to use github
